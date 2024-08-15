@@ -4,6 +4,8 @@
 
 SASNet is a novel approach to recommendation systems that leverages Large Language Models (LLMs) and a Siamese Transformer-based architecture. This project aims to address common challenges in recommendation systems, including overspecialization, the cold-start problem, and the need for in-depth item knowledge.
 
+## Table of Contents
+
 ## Project Structure
 
 The project is organized into the following main directories:
@@ -36,7 +38,9 @@ The dataset is in parquet format and contains pre-computed embeddings for the Ye
 
 ## Installation
 
-TBD
+```console
+pip install sasnet
+```
 
 ## Usage
 
@@ -110,7 +114,7 @@ For major changes or new features, please open an issue first to discuss the pro
 
 ## License
 
-[Add license information]
+`sasnet` is distributed under the terms of the [MIT](https://spdx.org/licenses/MIT.html) license.
 
 ## Contact
 
