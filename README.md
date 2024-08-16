@@ -1,4 +1,4 @@
-# SASNet: Dynamic LLM Embeddings and Combinatorial Training for Recommendation Systems
+# SASNet: LLM Embeddings and Siamese Transformer Network for Recommendation Systems
 
 ## Overview
 
@@ -21,7 +21,6 @@ The project is organized into the following main directories:
 - Utilizes quantized LLM (Phi 3 3.8B-Q4-GPTQ) for rich embeddings
 - Custom Siamese AttentionSetNet (SASNet) architecture
 - Dynamic embedding generation for users and activities
-- Custom data generator for enhanced learning
 
 ## Dataset and Embeddings
 
