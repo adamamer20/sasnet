@@ -128,5 +128,5 @@ We would like to thank the Yelp Open Dataset for providing the data used in this
 If you use this work in your research, please cite:
 
 ```
-Amer, A., Çabuk, B., Chinello, F., & Rotov, D. (2024). SASNet: Dynamic LLM Embeddings and Combinatorial Training for Recommendation Systems.
+Amer, A., Çabuk, B., Chinello, F., & Rotov, D. (2024). SASNet: LLM Embeddings and Siamese Transformer Network for Recommendation Systems.
 ```
